@@ -1,0 +1,8 @@
+L'objectif principal de la Plateforme d'Apprentissage Profond pour la Prédiction et la Prévision de Données Multisources (PADP-DMS) est de concevoir une solution intégrée exploitant des techniques d'apprentissage profond, plus spécifiquement la classification d'images et des fichiers. Cette plateforme vise à permettre une prédiction et une prévision précises de flux de données provenant de multiples sources.
+En fournissant des informations approfondies sur les données d'entrée, PADP-DMS offre la possibilité de préparer efficacement les données brutes en les nettoyant, les transformant, les normalisant, équilibrant les classes et les augmentant en vue de l'entraînement du modèle. La plateforme génère des couches d'apprentissage profond, telles que les réseaux neuronaux convolutionnels, le max pooling et les couches denses. Les utilisateurs peuvent également tirer parti du transfert d'apprentissage avec des modèles pré-entraînés pour améliorer les performances.
+
+Les fonctionnalités avancées, comme le rappel du modèle et l'utilisation de métriques d'évaluation telles que la matrice de confusion, la précision et le rappel, sont intégrées pour faciliter la comparaison de plusieurs modèles et la sélection du meilleur pour une tâche spécifique. De plus, la PADP-DMS offre aux utilisateurs la possibilité de télécharger le code généré, favorisant ainsi la personnalisation et le déploiement dans le cadre de leurs propres projets.
+
+En automatisant les tâches répétitives des data scientists, la PADP-DMS accélère le processus de travail tout en réduisant les coûts de développement associés aux applications de prédiction et de prévision.
+
+Le langage de programmation principal utilisé dans ce projet est Python.
